@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xy_screen_example.iml" filepath="$PROJECT_DIR$/.idea/modules/xy_screen_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/xy_screen_example.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/xy_screen_example.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xy_airplay/xy_screen_example.xy_airplay.iml" filepath="$PROJECT_DIR$/.idea/modules/xy_airplay/xy_screen_example.xy_airplay.iml" />
+    </modules>
+  </component>
+</project>

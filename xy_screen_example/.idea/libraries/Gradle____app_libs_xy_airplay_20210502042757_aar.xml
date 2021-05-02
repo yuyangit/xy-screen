@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/xy_airplay_20210502042757.aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e481036db2f7738f684050143d170a37/jetified-xy_airplay_20210502042757/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e481036db2f7738f684050143d170a37/jetified-xy_airplay_20210502042757/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e481036db2f7738f684050143d170a37/jetified-xy_airplay_20210502042757/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e481036db2f7738f684050143d170a37/jetified-xy_airplay_20210502042757/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
